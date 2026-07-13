@@ -4564,7 +4564,4 @@ if (Module['preInit']) {
 
 run();
 
-
-
-
-
+export const WrappedRE2 = Module['WrappedRE2'];
